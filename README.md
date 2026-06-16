@@ -48,12 +48,11 @@ DeepCSAT/
 │   ├── scaler.pkl
 │   ├── label_encoders.pkl
 │   ├── lr_baseline.pkl
-│   └── rf_baseline.pkl
+│   
 │
 ├── notebooks/
 │   └── DeepCSAT_Capstone_Notebook.ipynb
 │
-├── outputs/
 ├── src/
 │   └── streamlit_app.py
 │
