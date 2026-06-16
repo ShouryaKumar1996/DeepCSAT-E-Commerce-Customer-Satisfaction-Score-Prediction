@@ -1,0 +1,21 @@
+# Generated charts / reports
+outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+deepcsat_env/
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
