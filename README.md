@@ -126,8 +126,6 @@ The Artificial Neural Network outperformed traditional machine learning baseline
 ## 🚀 Future Enhancements
 
 * Cloud Deployment (AWS/Azure/GCP)
-* Explainable AI using SHAP
-* REST API Integration
 * Automated Retraining Pipeline
 * Docker Containerization
 
